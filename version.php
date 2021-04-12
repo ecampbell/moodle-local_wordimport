@@ -22,9 +22,9 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version = 2021040900;
+$plugin->version = 2021041200;
 $plugin->requires = 2020110900; // Moodle 3.10
-$plugin->release = '1.0.0';
+$plugin->release = '1.0.0 (Build: 2021041200)';
 $plugin->component = 'local_wordimport';
 $plugin->maturity = MATURITY_STABLE;
 $plugin->dependencies = [
@@ -32,5 +32,5 @@ $plugin->dependencies = [
     'booktool_wordimport' => 2021040900,
     'glossary_wordimport' => 2021040900,
     'lesson_wordimport' => 2021040900,
-    'qformat_wordtable' => 2021040900,
+    'qformat_wordtable' => 2020071101,
 ];
