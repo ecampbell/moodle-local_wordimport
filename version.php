@@ -28,9 +28,9 @@ $plugin->release = '1.0.0 (Build: 2021041200)';
 $plugin->component = 'local_wordimport';
 $plugin->maturity = MATURITY_STABLE;
 $plugin->dependencies = [
-    'atto_wordimport' => 2021040900,
-    'booktool_wordimport' => 2021040900,
-    'glossary_wordimport' => 2021040900,
-    'lesson_wordimport' => 2021040900,
+    'atto_wordimport' => 2020070603,
+    'booktool_wordimport' => 2021041100,
+    'local_glossary_wordimport' => 2021040900,
+    'local_lesson_wordimport' => 2021041100,
     'qformat_wordtable' => 2020071101,
 ];
