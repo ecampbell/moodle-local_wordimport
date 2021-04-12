@@ -15,8 +15,10 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
+ * Shell to force installation of all Microsoft Word file import/export set plugins.
+ *
  * @package local_wordimport
- * @copyright   2021 Eoin Campbell
+ * @copyright 2021 Eoin Campbell
  * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
