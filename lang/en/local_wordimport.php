@@ -22,5 +22,5 @@
  * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['pluginname'] = 'Microsoft Word File Imort/Export';
+$string['pluginname'] = 'Microsoft Word File Import/Export';
 $string['privacy:metadata'] = 'This plugin is just a shell plugin.';

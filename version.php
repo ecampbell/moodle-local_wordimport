@@ -25,9 +25,9 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version = 2021041200;
+$plugin->version = 2021041400;
 $plugin->requires = 2020110900; // Moodle 3.10.
-$plugin->release = '1.0.0 (Build: 2021041200)';
+$plugin->release = '1.0.2 (Build: 2021041400)';
 $plugin->component = 'local_wordimport';
 $plugin->maturity = MATURITY_STABLE;
 $plugin->dependencies = [
