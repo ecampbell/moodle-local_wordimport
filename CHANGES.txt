@@ -1,5 +1,6 @@
 # Change log
 
 Date          Version   Comment
+2021/04/15    1.0.3     Revert to old plugin versions as the latest releases are broken.
 2021/04/14    1.0.2     Fix plugin name.
 2021/04/12    1.0.1     Initial release for Moodle 3.10.

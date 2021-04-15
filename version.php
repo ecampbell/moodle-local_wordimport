@@ -32,8 +32,8 @@ $plugin->component = 'local_wordimport';
 $plugin->maturity = MATURITY_STABLE;
 $plugin->dependencies = [
     'atto_wordimport' => 2020070603,
-    'booktool_wordimport' => 2021041100,
-    'local_glossary_wordimport' => 2021040900,
-    'local_lesson_wordimport' => 2021041100,
+    'booktool_wordimport' => 2021022400,
+    'local_glossary_wordimport' => 2020082901,
+    // 'local_lesson_wordimport' => 2021041100,
     'qformat_wordtable' => 2020071101,
 ];
