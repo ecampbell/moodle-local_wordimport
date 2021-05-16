@@ -1,6 +1,7 @@
 # Change log
 
 Date          Version   Comment
+2021/05/16    1.1.1     Require latest Glossary release to fix image import issue.
 2021/05/02    1.1.0     Support Moodle versions from 3.7 upwards.
 2021/04/15    1.0.3     Revert to old plugin versions as the latest releases are broken.
 2021/04/14    1.0.2     Fix plugin name.
