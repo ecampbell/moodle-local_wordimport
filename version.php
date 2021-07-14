@@ -25,15 +25,15 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version = 2021051600;
+$plugin->version = 2021071400;
 $plugin->requires = 2018051700; // Moodle 3.5.
-$plugin->release = '1.1.1 (Build: 2021051600)';
+$plugin->release = '1.1.2 (Build: 2021071400)';
 $plugin->component = 'local_wordimport';
 $plugin->maturity = MATURITY_STABLE;
 $plugin->dependencies = [
-    'atto_wordimport' => 2020070603,
-    'booktool_wordimport' => 2021050200, // Release 1.4.7.
-    'local_glossary_wordimport' => 2021051500, // Release 1.1.2.
-    // 'local_lesson_wordimport' => 2021041100, // Alpha release, omit for the moment.
+    'atto_wordimport' => 2021071400,
+    'booktool_wordimport' => 2021071400, // Release 1.4.9.
+    'local_glossary_wordimport' => 2021071400, // Release 1.1.3.
+    // 'local_lesson_wordimport' => 2021071400, // Alpha release, omit for the moment.
     'qformat_wordtable' => 2020071101
 ];
