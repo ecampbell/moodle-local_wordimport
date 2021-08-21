@@ -34,6 +34,6 @@ $plugin->dependencies = [
     'atto_wordimport' => 2021071400, // Release 1.4.1.
     'booktool_wordimport' => 2021082100, // Release 1.4.10.
     'local_glossary_wordimport' => 2021082100, // Release 1.1.5.
-    'local_lesson_wordimport' => 2021081300, // Release 1.0.0.
+    'local_lesson_wordimport' => 2021082100, // Release 1.0.0.
     'qformat_wordtable' => 2021082100 // Release 3.9.0.
 ];
