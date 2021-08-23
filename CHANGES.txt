@@ -1,6 +1,7 @@
 # Change log
 
 Date          Version   Comment
+2021/08/23    1.1.4     Fix dependency on Book Word converter.
 2021/08/21    1.1.3     Add Lesson plugin as a stable release, update all plugin dependencies for GIF conversion support.
 2021/07/14    1.1.2     Require latest version of Word import plugins based on Book import.
 2021/05/16    1.1.1     Require latest Glossary release to fix image import issue.
