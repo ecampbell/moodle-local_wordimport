@@ -3,7 +3,7 @@
 ## Microsoft Word File Import/Export Local Plugin
 
 This plugin is a shell plugin that has dependencies on all Microsoft Word File Import/Export set plugins.
-These plugins allow Word files to be imported into text fields (Atto), Books, Glossaries, Lessons and the Question bank.
+These plugins allow Word files to be imported into text fields (Atto and TinyMCE), Books, Glossaries, Lessons and the Question bank.
 They also allow Books, Glossaries, Lessons and Question bank categories to be exported into Word files for round-trip editing.
 
 This plugin requires all the plugins in the suite of 
