@@ -25,9 +25,9 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->version = 2025042500;
-$plugin->requires = 2022110800; // Moodle 4.1 or higher.
-$plugin->release = '1.2.3 (Build: 2025042500)';
+$plugin->version = 2025042800;
+$plugin->requires = 2020060900; // Moodle 3.9 or higher.
+$plugin->release = '1.1.6 (Build: 2025042800)';
 $plugin->component = 'local_wordimport';
 $plugin->maturity = MATURITY_STABLE;
 $plugin->dependencies = [
@@ -36,5 +36,4 @@ $plugin->dependencies = [
     'local_glossary_wordimport' => 2025042300, // Release 1.1.7.
     'local_lesson_wordimport' => 2023022400, // Release 1.0.2.
     'qformat_wordtable' => 2025040400, // Release 3.9.6.
-    'tiny_wordimport' => 2024112000, // Release 1.1.2.
 ];
