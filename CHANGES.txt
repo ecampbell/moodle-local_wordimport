@@ -1,7 +1,7 @@
 # Change log
 
 Date          Version   Comment
-2025/04/25    1.1.6     Include updated Book plugin, require Moodle 3.9.
+2025/04/25    1.1.6     Include updated Book plugin with img/@alt support, require Moodle 3.9.
 2025/04/25    1.2.3     Include Tiny and Atto plugins, require Moodle 4.1.
 2025/04/24    1.2.2     Fix code style issues, relax Moodle version requirement to 3.9.
 2025/04/14    1.2.1     Remove dependency on Atto Word import plugin for Moodle 5.0.
